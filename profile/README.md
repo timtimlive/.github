@@ -27,6 +27,24 @@ No sign-up needed. This returns sample events (every name starts with "TEST EVEN
 curl "https://api.timtim.live/v1/demo/events?city=Miami&category=music"
 ```
 
+## TimTim.Live Developer Tools
+
+Open-source tools for connecting websites, apps and platforms to TimTim.Live.
+
+### What is open source
+
+SDKs, widgets, adapters, examples and public API specifications.
+
+### What is not included
+
+The hosted TimTim.Live Event API implementation, production databases, ticketing backend, checkout systems, attribution systems, payouts, fraud systems, customer data, infrastructure and proprietary business logic are not part of these repositories.
+
+These tools connect to the hosted TimTim.Live API at:
+
+https://api.timtim.live
+
+Open-source licenses for client software do not grant ownership of TimTim.Live event data, API services, commercial rights, certification marks or trademarks.
+
 ## Good to know
 
 - **Sandbox first.** Test keys (`tt_test_…`) only ever see sample events. No real money moves. Get one at https://timtim.live/developers.
