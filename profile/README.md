@@ -8,7 +8,7 @@ Open-source developer tools powered by the TimTim.Live Global Event Distribution
 
 **[Choose How to Connect](https://timtim.live/developers/connect)** · **[See It Work](https://timtim.live/developers/demo)** · **[Make Your Embed](https://timtim.live/developers/widget)** · **[60-Second Quickstart](https://timtim.live/developers/quickstart)** · **[Developer Documentation](https://timtim.live/developers/docs)** · **[Try Sandbox](https://timtim.live/developers/sandbox)**
 
-Not sure where to start? **[timtim.live/developers/connect](https://timtim.live/developers/connect)** asks one question — *where do you want events to show?* — and gives you one button that works today.
+Not sure where to start? Open **[timtim.live/developers/connect](https://timtim.live/developers/connect)**. It asks where you want events to show. Then it gives you one button that works.
 
 ## Pick your way in
 
